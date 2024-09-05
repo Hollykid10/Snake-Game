@@ -54,6 +54,6 @@ A simple snake game built using Python and the Pygame library. This game provide
 
 ## Game Screenshots
 
-**
+*![Screenshot 2024-09-05 175506](https://github.com/user-attachments/assets/55feb7be-baa5-45e0-a75b-d2243c357328)*
 
 
